@@ -11,7 +11,7 @@
 ### Built With
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Figma,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop" /><br>
     
 </div>
 
