@@ -1,4 +1,3 @@
-![Leather shoe product(Web_Site)](https://github.com/NVsandeepani/E-Commerce-Website-UI-/assets/159278608/3e45bb75-d31d-480e-a4f2-e77d65767230)
 # E-Commers Web Site User Interfaces
 
 <h1 align="center">
